@@ -3,19 +3,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e2b75cab",
+   "id": "53f9826a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-07-26T08:28:48.649477Z",
-     "iopub.status.busy": "2022-07-26T08:28:48.647316Z",
-     "iopub.status.idle": "2022-07-26T08:28:48.808467Z",
-     "shell.execute_reply": "2022-07-26T08:28:48.806766Z"
+     "iopub.execute_input": "2022-07-27T09:06:30.940941Z",
+     "iopub.status.busy": "2022-07-27T09:06:30.937028Z",
+     "iopub.status.idle": "2022-07-27T09:06:31.131795Z",
+     "shell.execute_reply": "2022-07-27T09:06:31.129487Z"
     },
     "papermill": {
-     "duration": 0.168578,
-     "end_time": "2022-07-26T08:28:48.810878",
+     "duration": 0.204569,
+     "end_time": "2022-07-27T09:06:31.134973",
      "exception": false,
-     "start_time": "2022-07-26T08:28:48.642300",
+     "start_time": "2022-07-27T09:06:30.930404",
      "status": "completed"
     },
     "tags": []
@@ -188,19 +188,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "0388260a",
+   "id": "b5d05ae9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-07-26T08:28:48.851344Z",
-     "iopub.status.busy": "2022-07-26T08:28:48.821758Z",
-     "iopub.status.idle": "2022-07-26T08:28:48.868078Z",
-     "shell.execute_reply": "2022-07-26T08:28:48.866441Z"
+     "iopub.execute_input": "2022-07-27T09:06:31.182043Z",
+     "iopub.status.busy": "2022-07-27T09:06:31.143661Z",
+     "iopub.status.idle": "2022-07-27T09:06:31.205297Z",
+     "shell.execute_reply": "2022-07-27T09:06:31.202999Z"
     },
     "papermill": {
-     "duration": 0.057283,
-     "end_time": "2022-07-26T08:28:48.870396",
+     "duration": 0.076332,
+     "end_time": "2022-07-27T09:06:31.214626",
      "exception": false,
-     "start_time": "2022-07-26T08:28:48.813113",
+     "start_time": "2022-07-27T09:06:31.138294",
      "status": "completed"
     },
     "tags": []
@@ -353,19 +353,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "542f2f72",
+   "id": "07f26b1b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-07-26T08:28:48.877962Z",
-     "iopub.status.busy": "2022-07-26T08:28:48.876490Z",
-     "iopub.status.idle": "2022-07-26T08:28:48.921113Z",
-     "shell.execute_reply": "2022-07-26T08:28:48.919483Z"
+     "iopub.execute_input": "2022-07-27T09:06:31.225245Z",
+     "iopub.status.busy": "2022-07-27T09:06:31.223278Z",
+     "iopub.status.idle": "2022-07-27T09:06:31.290254Z",
+     "shell.execute_reply": "2022-07-27T09:06:31.287223Z"
     },
     "papermill": {
-     "duration": 0.050699,
-     "end_time": "2022-07-26T08:28:48.923400",
+     "duration": 0.076488,
+     "end_time": "2022-07-27T09:06:31.294257",
      "exception": false,
-     "start_time": "2022-07-26T08:28:48.872701",
+     "start_time": "2022-07-27T09:06:31.217769",
      "status": "completed"
     },
     "tags": []
@@ -1031,20 +1031,150 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "ea29e007",
+   "execution_count": 4,
+   "id": "dcda1330",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-07-27T09:06:31.308914Z",
+     "iopub.status.busy": "2022-07-27T09:06:31.306920Z",
+     "iopub.status.idle": "2022-07-27T09:06:31.338875Z",
+     "shell.execute_reply": "2022-07-27T09:06:31.330937Z"
+    },
     "papermill": {
-     "duration": 0.005246,
-     "end_time": "2022-07-26T08:28:48.932135",
+     "duration": 0.042573,
+     "end_time": "2022-07-27T09:06:31.342587",
      "exception": false,
-     "start_time": "2022-07-26T08:28:48.926889",
+     "start_time": "2022-07-27T09:06:31.300014",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [],
-   "source": []
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<style>\n",
+       ".list-inline {list-style: none; margin:0; padding: 0}\n",
+       ".list-inline>li {display: inline-block}\n",
+       ".list-inline>li:not(:last-child)::after {content: \"\\00b7\"; padding: 0 .5ex}\n",
+       "</style>\n",
+       "<ol class=list-inline><li>6</li><li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li><li>5.3</li><li>5.3</li><li>5.3</li><li>-3</li><li>102</li><li>101.75</li><li>101.5</li><li>101.25</li><li>101</li><li>100.75</li><li>100.5</li><li>100.25</li><li>100</li></ol>\n"
+      ],
+      "text/latex": [
+       "\\begin{enumerate*}\n",
+       "\\item 6\n",
+       "\\item 7\n",
+       "\\item 8\n",
+       "\\item 9\n",
+       "\\item 10\n",
+       "\\item 11\n",
+       "\\item 12\n",
+       "\\item 5.3\n",
+       "\\item 5.3\n",
+       "\\item 5.3\n",
+       "\\item -3\n",
+       "\\item 102\n",
+       "\\item 101.75\n",
+       "\\item 101.5\n",
+       "\\item 101.25\n",
+       "\\item 101\n",
+       "\\item 100.75\n",
+       "\\item 100.5\n",
+       "\\item 100.25\n",
+       "\\item 100\n",
+       "\\end{enumerate*}\n"
+      ],
+      "text/markdown": [
+       "1. 6\n",
+       "2. 7\n",
+       "3. 8\n",
+       "4. 9\n",
+       "5. 10\n",
+       "6. 11\n",
+       "7. 12\n",
+       "8. 5.3\n",
+       "9. 5.3\n",
+       "10. 5.3\n",
+       "11. -3\n",
+       "12. 102\n",
+       "13. 101.75\n",
+       "14. 101.5\n",
+       "15. 101.25\n",
+       "16. 101\n",
+       "17. 100.75\n",
+       "18. 100.5\n",
+       "19. 100.25\n",
+       "20. 100\n",
+       "\n",
+       "\n"
+      ],
+      "text/plain": [
+       " [1]   6.00   7.00   8.00   9.00  10.00  11.00  12.00   5.30   5.30   5.30\n",
+       "[11]  -3.00 102.00 101.75 101.50 101.25 101.00 100.75 100.50 100.25 100.00"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#Que (d)-  Create and store a vector that contains, in any configuration, the following:\n",
+    "#i. A sequence of integers from 6 to 12 (inclusive)\n",
+    "#ii. A threefold repetition of the value 5.3\n",
+    "#iii. The number −3\n",
+    "#iv. A sequence of nine values starting at 102 and ending at the number that is the total length of the vector created in (c)\n",
+    "\n",
+    "#Answer-\n",
+    "\n",
+    "z=c(6:12,rep(5.3,times=3),-3,seq(from=102,to=length(y),length.out=9))\n",
+    "z"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "c90918a7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2022-07-27T09:06:31.356363Z",
+     "iopub.status.busy": "2022-07-27T09:06:31.354302Z",
+     "iopub.status.idle": "2022-07-27T09:06:31.378748Z",
+     "shell.execute_reply": "2022-07-27T09:06:31.376093Z"
+    },
+    "papermill": {
+     "duration": 0.034965,
+     "end_time": "2022-07-27T09:06:31.382200",
+     "exception": false,
+     "start_time": "2022-07-27T09:06:31.347235",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "20"
+      ],
+      "text/latex": [
+       "20"
+      ],
+      "text/markdown": [
+       "20"
+      ],
+      "text/plain": [
+       "[1] 20"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "#e. Confirm that the length of the vector created in (d) is 20.\n",
+    "#Answer-\n",
+    "length(z)\n"
+   ]
   }
  ],
  "metadata": {
@@ -1063,14 +1193,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 4.12997,
-   "end_time": "2022-07-26T08:28:49.055919",
+   "duration": 4.881608,
+   "end_time": "2022-07-27T09:06:31.511218",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-07-26T08:28:44.925949",
+   "start_time": "2022-07-27T09:06:26.629610",
    "version": "2.3.4"
   }
  },
